@@ -10,3 +10,5 @@ For this assignment I want you to watch the following two videos and create your
 ## Screenshots
 
 1.  Put the screenshot of your image in your Docker account here.
+
+![image](https://github.com/user-attachments/assets/e9c003de-92d9-4f0c-a161-4c16084eab3e)
